@@ -1,3 +1,3 @@
 # Typescript-angular-
 
-learning Angular and typescript
+Learning Angular and typescript
